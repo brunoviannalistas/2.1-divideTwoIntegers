@@ -1,6 +1,6 @@
 // divideTwoIntegers.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
 //
-
+// small change
 #include "stdio.h"
 
 // ask to integers, divide the first by the second and present the result with 2 decimal places
